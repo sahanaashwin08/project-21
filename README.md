@@ -5,4 +5,4 @@
     You’ll see all Bootstrap card variations (Header/Footer, Contextual, Titles/Links, Stretched Link, Image Overlay, Columns,      Deck, Group).
     
 # Output
-http://127.0.0.1:5500/iiiindex.html
+http://127.0.0.1:5500/iindex.html
